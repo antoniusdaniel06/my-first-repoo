@@ -4,5 +4,5 @@ NPM : 2406496012
 
 Kelas : PBP E
 
-Jurusan : Sistem Informasi 
+Jurusan : Sistem Informasii
 
